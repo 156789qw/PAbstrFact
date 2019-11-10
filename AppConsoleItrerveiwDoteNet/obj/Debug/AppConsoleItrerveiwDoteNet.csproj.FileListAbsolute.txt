@@ -1,0 +1,7 @@
+C:\Users\dvgro\source\repos\AppConsoleItrerveiwDoteNet\AppConsoleItrerveiwDoteNet\bin\Debug\AppConsoleItrerveiwDoteNet.exe.config
+C:\Users\dvgro\source\repos\AppConsoleItrerveiwDoteNet\AppConsoleItrerveiwDoteNet\bin\Debug\AppConsoleItrerveiwDoteNet.exe
+C:\Users\dvgro\source\repos\AppConsoleItrerveiwDoteNet\AppConsoleItrerveiwDoteNet\bin\Debug\AppConsoleItrerveiwDoteNet.pdb
+C:\Users\dvgro\source\repos\AppConsoleItrerveiwDoteNet\AppConsoleItrerveiwDoteNet\obj\Debug\AppConsoleItrerveiwDoteNet.csprojAssemblyReference.cache
+C:\Users\dvgro\source\repos\AppConsoleItrerveiwDoteNet\AppConsoleItrerveiwDoteNet\obj\Debug\AppConsoleItrerveiwDoteNet.csproj.CoreCompileInputs.cache
+C:\Users\dvgro\source\repos\AppConsoleItrerveiwDoteNet\AppConsoleItrerveiwDoteNet\obj\Debug\AppConsoleItrerveiwDoteNet.exe
+C:\Users\dvgro\source\repos\AppConsoleItrerveiwDoteNet\AppConsoleItrerveiwDoteNet\obj\Debug\AppConsoleItrerveiwDoteNet.pdb
